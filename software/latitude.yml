@@ -1,0 +1,14 @@
+name: "Latitude"
+website_url: "https://latitude.so"
+source_code_url: "https://github.com/latitude-dev/latitude"
+description: "Latitude is an open-source full-stack framework to build interactive applications on top of your live data using code."
+licenses:
+  - LGPL-3.0
+platforms:
+  - Javascript
+  - Nodejs
+  - Docker
+tags:
+  - Analytics
+depends_3rdparty: false
+demo_url: "https://netflix-sample.fly.dev/"
